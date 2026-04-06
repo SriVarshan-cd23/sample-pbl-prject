@@ -1,0 +1,14 @@
+{
+  "name": "sample-pbl-project",
+  "version": "1.0.0",
+  "description": "Static PBL project served on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "",
+  "license": "MIT"
+}
